@@ -36,7 +36,7 @@ Para ello seguiremos los siguientes pasos para cada uno de los dos escenarios:
 + Al nombre de la propuesta hay que añadir las siguientes características:
   + Tipo de propuesta. Pueden ser propuestas de investigación (necesitamos más información), de actuación en el terreno (ej. repoblaciones), de gobernanza (ej. cambiar una disposición legal).
   + Actor o actores encargados de implementar la propuesta. Se describirán los actores involucrados en poner en marcha la propuesta. Por ejemplo, para que ocurra una repoblación es necesario que alguien la planifique técnicamente y que otra persona o personas la ejecute en el campo.
-  + Escala de la propuesta: indicaremos a qué escala o escalas de la jerarquía de gobernanza se aplica la propuesta realizada. 
+  + Escala de la propuesta: indicaremos a qué escala o escalas espaciales y temporales se aplica la propuesta generada. Es decir, proponemos a qué ámbito espacial se aplicaría y también durante cuánto tiempo. 
   + Fundamento científico de la propuesta: todas las propuestas han de estar basadas en evidencias científicas que procedan o bien de la ecología o de cualquier otra disciplina. Deberemos indicar en qué evidencia o evidencias se basa la propuesta. Por ejemplo, la propuesta de limitar la pesca de arrastre se sustenta en que esta técnica de pesca elimina la estructura del fondo marino, lo que impide el desarrollo de las poblaciones de peces con interés económico.
 + Por último, describiremos en unas pocas frases la propuesta en cuestión.
 
